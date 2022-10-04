@@ -1,5 +1,5 @@
 # Fomato
 
-#cd Fomato
-#npm install
-#npx react-native run-android
+cd Fomato
+npm install
+npx react-native run-android
